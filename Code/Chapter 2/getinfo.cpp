@@ -5,7 +5,7 @@ int main()
 {
     using namespace std;
     
-    int carrots;
+    int carrots;//
     
     cout << "How many carrots do you have?" << endl;
     cin >> carrots;                // C++ input
